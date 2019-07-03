@@ -6,7 +6,7 @@
 /*   By: pmalope <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/27 15:21:23 by pmalope           #+#    #+#             */
-/*   Updated: 2019/07/03 14:48:42 by pmalope          ###   ########.fr       */
+/*   Updated: 2019/07/03 15:53:30 by pmalope          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,7 @@ static int	ft_new_line(int fd, char **line, char **tab, int line_size)
 	{
 		*line = ft_strsub(tab[fd], 0, len);
 		ptr = ft_strdup(tab[fd] + len + 1);
-		ft_strdel(tab[fd]);
+		ft_strdel(&tab[fd]);
 		tab[fd] = ptr;
 		if (tab[fd][0] == '\0')
 			ft_strdel(&tab[fd]);
