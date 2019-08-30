@@ -6,7 +6,7 @@
 #    By: pmalope <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/05/21 15:25:45 by pmalope           #+#    #+#              #
-#    Updated: 2019/06/17 11:45:46 by pmalope          ###   ########.fr        #
+#    Updated: 2019/08/30 14:51:32 by pmalope          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -97,10 +97,5 @@ clean:
 
 fclean: clean
 	rm -rf $(NAME)
-	rm -rf test
-
-run:
-	$(CC) -g $(FLAGS) $(NAME) main.c -o test
-	./test
 
 re: fclean all
