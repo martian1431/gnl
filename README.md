@@ -64,13 +64,13 @@ Enjoy.
 
 Links:
 
-[1] 		-> https://www.azlyrics.com/lyrics/russ/voicemail.html
+[1]: https://www.azlyrics.com/lyrics/russ/voicemail.html
 
-[2]			-> https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e
+[2]: https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e
 
 Facebook 	-> https://www.facebook.com/martian1431
 
-Twitter[3] 	-> https://twitter.com/martian1431
+[3]: https://twitter.com/martian1431
 
 LinkedIn 	-> https://www.linkedin.com/in/phetho-malope-8a61b4187/
 
