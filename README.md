@@ -56,13 +56,15 @@ Alright, the last command created a `gnl` executable in your directory. Now test
 
 It should read the whole file to you. Kinda like a basic `cat` implementation.
 
-**NOTE:** The lyrics in the text file are from [LyricFind] by [Russ] ;)
+**NOTE:** The lyrics in the text file are from [LyricFind] by [Russ])
 
 Enjoy.
 
 Social Links:
 
 Facebook 	-> https://www.facebook.com/martian1431
+
 Twitter 	-> https://twitter.com/martian1431
+
 LinkedIn 	-> https://www.linkedin.com/in/phetho-malope-8a61b4187/
 
