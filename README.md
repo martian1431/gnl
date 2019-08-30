@@ -11,9 +11,9 @@ A C function that reads any valid file line by line until the end.
 
 ### What is get_next_line?
 
-[get_next_line][1] is an individual project at [WeThinkCode_][2] that basically reads a file line by line.
+[get_next_line] is an individual project at [WeThinkCode_] that basically reads a file line by line.
 
-Disclaimer: *There [are][10] [so][11] [many][12] [easier][13] methods of doing this by using standard C functions. But the goal here is to be able to do it by using any functions from my [libft][14] and only the standard functions `read`, `malloc` and `free`.*
+Disclaimer: *There [are] [so] [many] [easier] methods of doing this by using standard C functions. But the goal here is to be able to do it by using any functions from my [libft] and only the standard functions `read`, `malloc` and `free`.*
 
 ### Why would I use/try it?
 
@@ -48,11 +48,11 @@ Give it some time to compile all the files.
 
 Build the executable:
 	
-	gcc -Wall -Wextra -Werror get_next_line.c main.c libft/libft.a
+	gcc -Wall -Wextra -Werror -o gnl get_next_line.c main.c libft/libft.a
 
-Alright, the last command created a `gnl` executable in your directory. Now test it with:
+Alright, the last command created a `gnl`lyricsable in your directory. Now test it with:
 
-	./gnl m83.txt
+	./gnl lyrics
 
 It should read the whole file to you. Kinda like a basic `cat` implementation.
 
