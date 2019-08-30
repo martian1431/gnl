@@ -6,14 +6,12 @@ A C function that reads any valid file line by line until the end.
 * [What is get_next_line?](#what-is-get_next_line)
 * [Why would I use/try it?](#why-would-i-usetry-it)
 * [How do I use it?](#how-do-i-use-it)
-* [How do I try it out?](#how-do-i-try-it-out)
-	* [How do I test my own code?](#how-do-i-test-my-own-code)
 
 ### What is get_next_line?
 
-[get_next_line] is an individual project at [WeThinkCode_] that basically reads a file line by line.
+get_next_line is an individual project at [WeThinkCode_][4] that basically reads a file line by line.
 
-Disclaimer: *There [are] [so] [many] [easier] methods of doing this by using standard C functions. But the goal here is to be able to do it by using any functions from my [libft] and only the standard functions `read`, `malloc` and `free`.*
+Disclaimer: *There are so many easier methods of doing this by using standard C functions. But the goal here is to be able to do it by using any functions from my libft and only the standard functions `read`, `malloc` and `free`.*
 
 ### Why would I use/try it?
 
@@ -27,7 +25,7 @@ So it makes the project harder.
 
 After finishing this project, I learned more about static variables, pointers, arrays, linked lists, dynamic memory allocation and file manipulation.
 
-My code is not the best, but it passed all the WeThinkCode_ tests successfully.
+My code is not the best, but it passed all the [WeThinkCode_][4] tests successfully.
 
 ### How do I use it?
 
@@ -62,15 +60,12 @@ That's it! If you're having some problems, just [send me a tweet][3].
 
 Enjoy.
 
-Links:
-
 [1]: https://www.azlyrics.com/lyrics/russ/voicemail.html
 
 [2]: https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e
 
-Facebook 	-> https://www.facebook.com/martian1431
-
 [3]: https://twitter.com/martian1431
 
-LinkedIn 	-> https://www.linkedin.com/in/phetho-malope-8a61b4187/
+[4]: https://www.wethinkcode.co.za/
+
 
