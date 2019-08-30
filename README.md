@@ -2,7 +2,7 @@
 
 A C function that reads any valid file line by line until the end.
 
-### TOC
+### Table of Content
 * [What is get_next_line?](#what-is-get_next_line)
 * [Why would I use/try it?](#why-would-i-usetry-it)
 * [How do I use it?](#how-do-i-use-it)
@@ -60,7 +60,7 @@ It should read the whole file to you. Kinda like a basic `cat` implementation.
 
 Enjoy.
 
-Social Links:
+Links:
 
 Facebook 	-> https://www.facebook.com/martian1431
 
