@@ -37,7 +37,7 @@ I added a main file called **main.c**, it takes a file name as an argument, open
 
 Alright, so first of all, download/clone this repo:
 
-	git clone https://github.com/r4meau/get_next_line
+	git clone https://github.com/martian1431/gnl.git
 	
 Get into it and build the library:
 	
@@ -56,10 +56,13 @@ Alright, the last command created a `gnl` executable in your directory. Now test
 
 It should read the whole file to you. Kinda like a basic `cat` implementation.
 
-**NOTE:** The lyrics in the text file are from [Claudia Lewis][15] by [M83][16] ;)
+**NOTE:** The lyrics in the text file are from [LyricFind] by [Russ] ;)
 
 Enjoy.
 
 Social Links:
 
+Facebook 	-> https://www.facebook.com/martian1431
+Twitter 	-> https://twitter.com/martian1431
+LinkedIn 	-> https://www.linkedin.com/in/phetho-malope-8a61b4187/
 
