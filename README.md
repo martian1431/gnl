@@ -54,7 +54,7 @@ Alright, the last command created a `gnl`lyricsable in your directory. Now test 
 
 It should read the whole file to you. Kinda like a basic `cat` implementation.
 
-**NOTE:** The lyrics in the text file are from [LyricFind][1] by [Russ][2])
+**NOTE:** The lyrics in the text file are from [Azlyrics][1] by [Russ][2])
 
 That's it! If you're having some problems, just [send me a tweet][3].
 
